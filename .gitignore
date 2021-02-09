@@ -1,5 +1,8 @@
 *.pyc
 *.bak
+*.swp
+*.svg
+*.npy
 .DS_Store
 homeless.py
 playground.py
