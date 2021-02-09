@@ -122,7 +122,10 @@ class SquareToCircle(Scene):
 
 class AnimatingMethods(Scene):
     def construct(self):
-        grid = Tex(r"\pi").get_grid(10, 10, height=4)
+        #grid = Tex(r"福").get_
+        # grid(10, 10, height=4
+        # )
+        grid = Text("福",font="STKaiti").get_grid(10, 10, height=4)
         self.add(grid)
 
         # If you pass in a mobject method to the scene's "play" function,
@@ -132,7 +135,7 @@ class AnimatingMethods(Scene):
         # to the left, but the following line animates that motion.
         self.play(grid.shift, 2 * LEFT)
         # The same applies for any method, including those setting colors.
-        self.play(grid.set_submobject_colors_by_gradient, BLUE, GREEN)
+        self.play(grid.set_submobject_colors_by_gradient, RED_D, RED)
         self.play(grid.set_height, TAU - MED_SMALL_BUFF)
         self.wait()
 
@@ -160,14 +163,15 @@ class TextExample(Scene):
     def construct(self):
         # To run this scene properly, you should have "Consolas" font in your computer
         # for full usage, you can see https://github.com/3b1b/manim/pull/680
-        text = Text("Here is a text", font="Consolas", font_size=90)
+        text = Text("哈福", font="STKaiti", font_size=90)
         difference = Text(
             """
             The most important difference between Text and TexText is that\n
             you can change the font more easily, but can't use the LaTeX grammar
             """,
             font="Arial", font_size=24,
-            # t2c is a dict that you can choose color for different text
+            # t2c is a dict that you
+            #  can choose color for different text
             t2c={"Text": BLUE, "TexText": BLUE, "LaTeX": ORANGE}
         )
         VGroup(text, difference).arrange(DOWN, buff=1)
@@ -178,7 +182,7 @@ class TextExample(Scene):
         fonts = Text(
             "And you can also set the font according to different words",
             font="Arial",
-            t2f={"font": "Consolas", "words": "Consolas"},
+            t2f={"font": "Consolas", "words": "AI Nile"},
             t2c={"font": BLUE, "words": GREEN}
         )
         slant = Text(

@@ -31,7 +31,7 @@ class Text(SVGMobject):
         "height": None,
         "stroke_width": 0,
         # Text
-        "font": '',
+        "font": 'Baghdad',
         "gradient": None,
         "lsh": -1,
         "size": 1,

@@ -4,27 +4,27 @@ directories:
   # sourcecode generating that video
   mirror_module_path: False
   # Where should manim output video and image files?
-  output: ""
+  output: "/Users/puhongli/Documents/3b1b/manim/output"
   # If you want to use images, manim will look to these folders to find them
-  raster_images: ""
-  vector_images: ""
+  raster_images: "/Users/puhongli/Documents/3b1b/manim/input/images"
+  vector_images: "/Users/puhongli/Documents/3b1b/manim/input/svg"
   # If you want to use sounds, manim will look here to find it.
-  sounds: ""
+  sounds: "/Users/puhongli/Documents/3b1b/manim/input/images/sounds"
   # Manim often generates tex_files or other kinds of serialized data
   # to keep from having to generate the same thing too many times.  By
   # default, these will be stored at tempfile.gettempdir(), e.g. this might
   # return whatever is at to the TMPDIR environment variable.  If you want to
   # specify them elsewhere,
-  temporary_storage: ""
+  temporary_storage: "/Users/puhongli/Documents/3b1b/manim/tmp"
 tex:
-  executable: "latex"
-  template_file: "tex_template.tex" 
-  intermediate_filetype: "dvi"
-  text_to_replace: "[tex_expression]"
+  #executable: "latex"
+  #template_file: "tex_template.tex" 
+  #intermediate_filetype: "dvi"
+  #text_to_replace: "[tex_expression]"
   # # For ctex, use the following configuration
-  # executable: "xelatex -no-pdf"
-  # template_file: "ctex_template.tex"
-  # intermediate_filetype: "xdv"
+  executable: "xelatex -no-pdf"
+  template_file: "ctex_template.tex"
+  intermediate_filetype: "xdv"
 universal_import_line: "from manimlib.imports import *"
 style:
   font: "Consolas"
@@ -48,7 +48,7 @@ camera_qualities:
     resolution: "1280x720"
     frame_rate: 30
   high:
-    resolution: "1920x1080"
+    resolution: "1080x1920"
     frame_rate: 30
   ultra_high:
     resolution: "3840x2160"
