@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c336189-b55d-4c33-b37f-5fd4f89b0132" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.custom_defaults.yml.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/manim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Tex/96fd809a0ea5577c.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Tex/a7c9f18416b63fb1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Tex/cf5d7f9f2e57398a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Tex/ff2ad2cc1ce93b1c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/03a22d6d3b1771c8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/050317880cd4e517.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/0510a7f01b67feff.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/2d2bc673c8dd5902.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/53830cc7be8f429d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/781b37a840989752.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/f4dc33a6d80a8aa9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/Text/f64632f164553b31.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/01a7f4077cf21fe8_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/02189248363957c1_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/0510a4af5f55ea4f_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/10fc209bec6f2038_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/13c7aca4d4eddf4c_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/1838f79e4079a0a0_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/1a5a107bc566736a_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/1c05691d1bc080ba_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/1cca3ee2db03fe35_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/2028fca8d3566b8f_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/220e1052ec3f1813_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/278d40a127764493_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/2c2d7344b6baa7e5_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/30ad795cb9609539_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/3869e4875d852536_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/3b478467d7f95f3f_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/3ba1c403fe9c69e3_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/45eca74863040e09_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/4a5c57cf2705f07f_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/4a9f28bdc35e2b87_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/53130262b86bf9da_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/545715095abb2d2a_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/56a9056da560d22d_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/650bb93e547510ec_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/68af615d7e520eed_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/7710eb93624deca4_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/78357c0cd1609442_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/7b3f276ca0f73d89_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/814ec4f81d163d6c_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/8582cc1424f537d1_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/8ab16157623acb0f_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/8c222f5f96f254b5_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/8d80571181ec8691_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/8e9d1e5110528dcd_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/95f4f103d94e9df4_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/97f7eeb670ea977e_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/a12e66bc0649f9b1_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/a2ec7d0c6128be16_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/a6b9c44915fbc88c_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/a7f666e7fec4b20b_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/acc247ca022b2f12_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/ace1ec83c24ce2cc_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/af9e7294e6d578f6_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/b44d7ff44b75bb41_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/b88244019f9dd2d6_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/c38393f224fbdb03_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/c3d7540f4bef48e6_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/d5124f6402adb8bf_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/d5cc67690ed07208_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/d774aa5f912391a1_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/e6d6d97f8ebe78bf_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/e77a421b10d64d7e_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/ec357fb709b94a43_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/f1c05fd790f862a2_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/f64b770ed4347536_points.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/mobject_data/f9dcba4b8510f824_points.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_defaults.yml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_defaults.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nxYgVCAggxpPSE5ybbTOzixjtN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c336189-b55d-4c33-b37f-5fd4f89b0132" name="Default Changelist" comment="" />
+      <created>1612333320139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612333320139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

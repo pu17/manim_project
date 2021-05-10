@@ -9,6 +9,10 @@ __pycache__/
 
 # C extensions
 *.so
+*.npy
+*.svg
+*.tex
+*.swp
 
 # Distribution / packaging
 .Python
